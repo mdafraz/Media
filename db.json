@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "name": "Tammy Mohr",
+      "id": 5
+    },
+    {
+      "name": "Deborah Koss",
+      "id": 6
+    },
+    {
+      "name": "Loretta Schaefer III",
+      "id": 7
+    },
+    {
+      "name": "Julie Ritchie",
+      "id": 8
+    },
+    {
+      "name": "Celia Hirthe Sr.",
+      "id": 9
+    },
+    {
+      "name": "Julie White",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "id": 33,
+      "title": "expample1",
+      "userID": 3
+    },
+    {
+      "userID": 3,
+      "title": "Sleek Metal Table",
+      "id": 34
+    },
+    {
+      "userID": 3,
+      "title": "Rustic Metal Towels",
+      "id": 35
+    },
+    {
+      "userID": 3,
+      "title": "Unbranded Rubber Towels",
+      "id": 36
+    },
+    {
+      "userID": 3,
+      "title": "Ergonomic Rubber Fish",
+      "id": 37
+    },
+    {
+      "userID": 7,
+      "title": "Handcrafted Wooden Sausages",
+      "id": 38
+    },
+    {
+      "userID": 7,
+      "title": "Rustic Frozen Chair",
+      "id": 39
+    },
+    {
+      "userID": 4,
+      "title": "Luxurious Granite Sausages",
+      "id": 40
+    },
+    {
+      "userID": 4,
+      "title": "Sleek Bronze Computer",
+      "id": 41
+    },
+    {
+      "userID": 4,
+      "title": "Handcrafted Rubber Keyboard",
+      "id": 42
+    },
+    {
+      "userID": 4,
+      "title": "Ergonomic Steel Chicken",
+      "id": 43
+    },
+    {
+      "userID": 4,
+      "title": "Small Wooden Towels",
+      "id": 44
+    },
+    {
+      "userID": 8,
+      "title": "Recycled Soft Gloves",
+      "id": 45
+    },
+    {
+      "userID": 4,
+      "title": "Small Plastic Mouse",
+      "id": 46
+    },
+    {
+      "userID": 4,
+      "title": "Tasty Steel Pizza",
+      "id": 47
+    },
+    {
+      "userID": 4,
+      "title": "Recycled Wooden Fish",
+      "id": 48
+    },
+    {
+      "userID": 4,
+      "title": "Sleek Concrete Chicken",
+      "id": 49
+    },
+    {
+      "userID": 4,
+      "title": "Refined Bronze Chair",
+      "id": 50
+    },
+    {
+      "userID": 4,
+      "title": "Gorgeous Cotton Sausages",
+      "id": 51
+    },
+    {
+      "userID": 5,
+      "title": "Practical Steel Salad",
+      "id": 54
+    },
+    {
+      "userID": 5,
+      "title": "Awesome Frozen Shoes",
+      "id": 55
+    }
+  ],
+  "photos": [
+    {
+      "albumID": 54,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84666",
+      "id": 3
+    },
+    {
+      "albumID": 54,
+      "url": "https://loremflickr.com/150/150/abstract?lock=81653",
+      "id": 4
+    }
+  ]
+}
